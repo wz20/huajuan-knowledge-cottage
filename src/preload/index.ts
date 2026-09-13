@@ -1,0 +1,2 @@
+import {contextBridge,ipcRenderer} from 'electron';
+contextBridge.exposeInMainWorld('workbench',{invoke:(action:string,payload?:unknown)=>ipcRenderer.invoke('workbench:invoke',action,payload),subscribe:(callback:(event:unknown)=>void)=>{const listener=(_event:Electron.IpcRendererEvent,data:unknown)=>callback(data);ipcRenderer.on('workbench:event',listener);return ()=>ipcRenderer.removeListener('workbench:event',listener);}});

@@ -1,0 +1,2283 @@
+{
+  "source": "sooahs-room-folio/blender files/Before Baking.blend",
+  "license": "MIT Andrew Woan 2025",
+  "total": 176,
+  "reused": 163,
+  "components": [
+    {
+      "source": "League_Logo",
+      "vertexCount": 2366,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Third-party League of Legends logo; no suitable functional role and not author identity-neutral."
+    },
+    {
+      "source": "Wire",
+      "vertexCount": 336,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Wire",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.123",
+      "vertexCount": 510,
+      "placements": [
+        {
+          "target": "Ref Open corner timber canopy Plane.123",
+          "face": "WorkFace",
+          "purpose": "Open corner timber canopy"
+        },
+        {
+          "target": "Ref Open corner timber canopy Plane.001",
+          "face": "LeisureFace",
+          "purpose": "Open corner timber canopy"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.002",
+      "vertexCount": 96,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.002",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.003",
+      "vertexCount": 120,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.003",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.005",
+      "vertexCount": 144,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.005",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.007",
+      "vertexCount": 985,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.007",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder",
+      "vertexCount": 10,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cylinder",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.012",
+      "vertexCount": 258,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.012",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "BézierCurve",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble BézierCurve",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "BézierCurve.001",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble BézierCurve.001",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "BézierCurve.002",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble BézierCurve.002",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.013",
+      "vertexCount": 128,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.013",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.014",
+      "vertexCount": 64,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.014",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.001",
+      "vertexCount": 208,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cylinder.001",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.015",
+      "vertexCount": 376,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.015",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.007",
+      "vertexCount": 4718,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.007",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.016",
+      "vertexCount": 319,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Giant bake backdrop; replaced by continuous cosmos."
+    },
+    {
+      "source": "Plane.018",
+      "vertexCount": 0,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Empty modeling helper; no visible geometry."
+    },
+    {
+      "source": "Plane.020",
+      "vertexCount": 2784,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.020",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.021",
+      "vertexCount": 0,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Empty modeling helper; no visible geometry."
+    },
+    {
+      "source": "Cylinder.005",
+      "vertexCount": 556,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cylinder.005",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Vert",
+      "vertexCount": 0,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Empty modeling helper; no visible geometry."
+    },
+    {
+      "source": "Vert.001",
+      "vertexCount": 0,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Empty modeling helper; no visible geometry."
+    },
+    {
+      "source": "Cylinder.007",
+      "vertexCount": 428,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cylinder.007",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.030",
+      "vertexCount": 118,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Plane.030",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.031",
+      "vertexCount": 1116,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Plane.031",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Flower_Basket",
+      "vertexCount": 15384,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Flower_Basket",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.019",
+      "vertexCount": 228,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Cube.019",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Cube.005",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Torus.001",
+      "vertexCount": 50,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Torus.001",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Torus.003",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Torus.002",
+      "vertexCount": 100,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Torus.002",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Torus.004",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.018",
+      "vertexCount": 20,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Cylinder.018",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Cylinder.001",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.027",
+      "vertexCount": 40,
+      "placements": [
+        {
+          "target": "Ref Music wall shelf Cube.027",
+          "face": "LeisureFace",
+          "purpose": "Music wall shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.028",
+      "vertexCount": 96,
+      "placements": [
+        {
+          "target": "Ref Music wall shelf Cube.028",
+          "face": "LeisureFace",
+          "purpose": "Music wall shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_1",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_1",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_2",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_2",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_3",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_3",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_4",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_4",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Boba plushie",
+      "vertexCount": 1552,
+      "placements": [
+        {
+          "target": "Ref Music wall shelf Boba plushie",
+          "face": "LeisureFace",
+          "purpose": "Music wall shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.079",
+      "vertexCount": 0,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Empty modeling helper; no visible geometry."
+    },
+    {
+      "source": "Cube.009",
+      "vertexCount": 40,
+      "placements": [
+        {
+          "target": "Ref Small treasure shelf Cube.009",
+          "face": "LeisureFace",
+          "purpose": "Small treasure shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.036",
+      "vertexCount": 96,
+      "placements": [
+        {
+          "target": "Ref Small treasure shelf Cube.036",
+          "face": "LeisureFace",
+          "purpose": "Small treasure shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_5",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_5",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_6",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_6",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_7",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_7",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_8",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_8",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Sticky_Note_9",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Quiet memo cluster Sticky_Note_9",
+          "face": "WorkFace",
+          "purpose": "Quiet memo cluster"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "BézierCurve.010",
+      "vertexCount": 300,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble BézierCurve.010",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.122",
+      "vertexCount": 8,
+      "placements": [
+        {
+          "target": "Ref Art frame recolored Plane.122",
+          "face": "LeisureFace",
+          "purpose": "Art frame recolored"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.002",
+      "vertexCount": 556,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cylinder.002",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.003",
+      "vertexCount": 556,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cylinder.003",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.004",
+      "vertexCount": 556,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cylinder.004",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.006",
+      "vertexCount": 556,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cylinder.006",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.038",
+      "vertexCount": 300,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.038",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube",
+      "vertexCount": 1188,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Source room mass has incompatible lower underwater cavity and ceiling-height wall topology; existing two complete thick walls retained, authored window/canopy reused."
+    },
+    {
+      "source": "Cube.039",
+      "vertexCount": 320,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Original square underwater room foundation incompatible with one spherical planet; planet volume retained."
+    },
+    {
+      "source": "Plane.029",
+      "vertexCount": 418,
+      "placements": [
+        {
+          "target": "Ref Lounge aquarium Plane.029",
+          "face": "LeisureFace",
+          "purpose": "Lounge aquarium"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.017",
+      "vertexCount": 98,
+      "placements": [
+        {
+          "target": "Ref Lounge aquarium Plane.017",
+          "face": "LeisureFace",
+          "purpose": "Lounge aquarium"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.019",
+      "vertexCount": 28393,
+      "placements": [
+        {
+          "target": "Ref Woven rug Plane.019",
+          "face": "WorkFace",
+          "purpose": "Woven rug"
+        },
+        {
+          "target": "Ref Woven rug Plane.001",
+          "face": "LeisureFace",
+          "purpose": "Woven rug"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Wooden_Name.001",
+      "vertexCount": 4904,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Author personal name geometry; excluded per user instruction."
+    },
+    {
+      "source": "Cube.014",
+      "vertexCount": 1730,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.014",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.015",
+      "vertexCount": 3302,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.015",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.028",
+      "vertexCount": 418,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.028",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.017",
+      "vertexCount": 386,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.017",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.022",
+      "vertexCount": 292,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.022",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.023",
+      "vertexCount": 356,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.023",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Slippers",
+      "vertexCount": 1442,
+      "placements": [
+        {
+          "target": "Ref Lounge slippers Slippers",
+          "face": "LeisureFace",
+          "purpose": "Lounge slippers"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.105",
+      "vertexCount": 226,
+      "placements": [
+        {
+          "target": "Ref Lounge aquarium Plane.105",
+          "face": "LeisureFace",
+          "purpose": "Lounge aquarium"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.106",
+      "vertexCount": 740,
+      "placements": [
+        {
+          "target": "Ref Lounge aquarium Plane.106",
+          "face": "LeisureFace",
+          "purpose": "Lounge aquarium"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Box_1",
+      "vertexCount": 208,
+      "placements": [
+        {
+          "target": "Ref Archive storage Box_1",
+          "face": "WorkFace",
+          "purpose": "Archive storage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Box_2",
+      "vertexCount": 208,
+      "placements": [
+        {
+          "target": "Ref Archive storage Box_2",
+          "face": "WorkFace",
+          "purpose": "Archive storage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Box_3",
+      "vertexCount": 264,
+      "placements": [
+        {
+          "target": "Ref Archive storage Box_3",
+          "face": "WorkFace",
+          "purpose": "Archive storage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "GitHub",
+      "vertexCount": 5560,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Author social branding; existing app has no author social links."
+    },
+    {
+      "source": "YouTube",
+      "vertexCount": 1652,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Author social branding; excluded personal portfolio content."
+    },
+    {
+      "source": "Twitter",
+      "vertexCount": 736,
+      "placements": [],
+      "status": "excluded",
+      "reason": "Author social branding; excluded personal portfolio content."
+    },
+    {
+      "source": "Microphone",
+      "vertexCount": 1016,
+      "placements": [
+        {
+          "target": "Ref Piano microphone and wiring Microphone",
+          "face": "LeisureFace",
+          "purpose": "Piano microphone and wiring"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.006",
+      "vertexCount": 890,
+      "placements": [
+        {
+          "target": "Ref Lounge aquarium Cube.006",
+          "face": "LeisureFace",
+          "purpose": "Lounge aquarium"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.008",
+      "vertexCount": 94,
+      "placements": [
+        {
+          "target": "Ref Lounge aquarium Cube.008",
+          "face": "LeisureFace",
+          "purpose": "Lounge aquarium"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.010",
+      "vertexCount": 94,
+      "placements": [
+        {
+          "target": "Ref Lounge aquarium Cube.010",
+          "face": "LeisureFace",
+          "purpose": "Lounge aquarium"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Clock",
+      "vertexCount": 1441,
+      "placements": [
+        {
+          "target": "Ref Wooden wall medallion Clock",
+          "face": "LeisureFace",
+          "purpose": "Wooden wall medallion"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Egg Basket",
+      "vertexCount": 201,
+      "placements": [
+        {
+          "target": "Ref Small treasure shelf Egg Basket",
+          "face": "LeisureFace",
+          "purpose": "Small treasure shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Egg One",
+      "vertexCount": 89,
+      "placements": [
+        {
+          "target": "Ref Small treasure shelf Egg One",
+          "face": "LeisureFace",
+          "purpose": "Small treasure shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Egg Two",
+      "vertexCount": 89,
+      "placements": [
+        {
+          "target": "Ref Small treasure shelf Egg Two",
+          "face": "LeisureFace",
+          "purpose": "Small treasure shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Egg Three",
+      "vertexCount": 89,
+      "placements": [
+        {
+          "target": "Ref Small treasure shelf Egg Three",
+          "face": "LeisureFace",
+          "purpose": "Small treasure shelf"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Mossy Rock_3",
+      "vertexCount": 165,
+      "placements": [
+        {
+          "target": "Ref Garden rounded reference rock Mossy Rock_3",
+          "face": "LeisureFace",
+          "purpose": "Garden rounded reference rock"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Mossy Rock",
+      "vertexCount": 181,
+      "placements": [
+        {
+          "target": "Ref Garden rounded reference rock Mossy Rock",
+          "face": "LeisureFace",
+          "purpose": "Garden rounded reference rock"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Mossy Rock_2",
+      "vertexCount": 127,
+      "placements": [
+        {
+          "target": "Ref Garden rounded reference rock Mossy Rock_2",
+          "face": "LeisureFace",
+          "purpose": "Garden rounded reference rock"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Mossy Rock_4",
+      "vertexCount": 196,
+      "placements": [
+        {
+          "target": "Ref Garden rounded reference rock Mossy Rock_4",
+          "face": "LeisureFace",
+          "purpose": "Garden rounded reference rock"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Mossy Rock_4.001",
+      "vertexCount": 138,
+      "placements": [
+        {
+          "target": "Ref Garden rounded reference rock Mossy Rock_4.001",
+          "face": "LeisureFace",
+          "purpose": "Garden rounded reference rock"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Mossy Rock_4.002",
+      "vertexCount": 186,
+      "placements": [
+        {
+          "target": "Ref Garden rounded reference rock Mossy Rock_4.002",
+          "face": "LeisureFace",
+          "purpose": "Garden rounded reference rock"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_1",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_1",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_2",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_2",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_3",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_3",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_4",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_4",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_5",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_5",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_6",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_6",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_7",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_7",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_8",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_8",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_9",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_9",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_10",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_10",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Seaweed_6.001",
+      "vertexCount": 866,
+      "placements": [
+        {
+          "target": "Ref Garden ground foliage Seaweed_6.001",
+          "face": "LeisureFace",
+          "purpose": "Garden ground foliage"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane",
+      "vertexCount": 305,
+      "placements": [
+        {
+          "target": "Ref Pond inset water detail Plane",
+          "face": "LeisureFace",
+          "purpose": "Pond inset water detail"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Mossy Rock_3.001",
+      "vertexCount": 165,
+      "placements": [
+        {
+          "target": "Ref Garden rounded reference rock Mossy Rock_3.001",
+          "face": "LeisureFace",
+          "purpose": "Garden rounded reference rock"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.008",
+      "vertexCount": 160,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Plane.008",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.009",
+      "vertexCount": 40,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Plane.009",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.010",
+      "vertexCount": 40,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Plane.010",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.011",
+      "vertexCount": 40,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Plane.011",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.075",
+      "vertexCount": 40,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.075",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.037",
+      "vertexCount": 1864,
+      "placements": [
+        {
+          "target": "Ref Floor authored parquet Cube.037",
+          "face": "WorkFace",
+          "purpose": "Floor authored parquet"
+        },
+        {
+          "target": "Ref Floor authored parquet Cube.001",
+          "face": "LeisureFace",
+          "purpose": "Floor authored parquet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.001",
+      "vertexCount": 96,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.001",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.001",
+      "vertexCount": 1256,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.001",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.020",
+      "vertexCount": 120,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Cube.020",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Cube.001",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.021",
+      "vertexCount": 52,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Cube.021",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Cube.002",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.016",
+      "vertexCount": 176,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Cube.016",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Cube.003",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.018",
+      "vertexCount": 144,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Cube.018",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Cube.004",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.063",
+      "vertexCount": 156,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Plane.063",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Plane.001",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.064",
+      "vertexCount": 100,
+      "placements": [
+        {
+          "target": "Ref Rear window authored joinery Plane.064",
+          "face": "WorkFace",
+          "purpose": "Rear window authored joinery"
+        },
+        {
+          "target": "Ref Rear window authored joinery Plane.002",
+          "face": "LeisureFace",
+          "purpose": "Rear window authored joinery"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Piano",
+      "vertexCount": 3337,
+      "placements": [
+        {
+          "target": "Piano / PianoKey_*",
+          "face": "LeisureFace",
+          "purpose": "Already reused in v8 with 24 individually animated keys"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.067",
+      "vertexCount": 496,
+      "placements": [
+        {
+          "target": "Ref Piano microphone and wiring Plane.067",
+          "face": "LeisureFace",
+          "purpose": "Piano microphone and wiring"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Wire_Two",
+      "vertexCount": 324,
+      "placements": [
+        {
+          "target": "Ref Piano microphone and wiring Wire_Two",
+          "face": "LeisureFace",
+          "purpose": "Piano microphone and wiring"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lamp",
+      "vertexCount": 460,
+      "placements": [
+        {
+          "target": "Ref Reading lamp Lamp",
+          "face": "WorkFace",
+          "purpose": "Reading lamp"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Chair Legs",
+      "vertexCount": 2568,
+      "placements": [
+        {
+          "target": "Ref Ergonomic chair Chair Legs",
+          "face": "Chair",
+          "purpose": "Ergonomic chair"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Chair Top",
+      "vertexCount": 1502,
+      "placements": [
+        {
+          "target": "Ref Ergonomic chair Chair Top",
+          "face": "Chair",
+          "purpose": "Ergonomic chair"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights",
+      "vertexCount": 840,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.002",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.002",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.003",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.003",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.004",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.004",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.005",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.005",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.006",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.006",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.007",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.007",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.008",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.008",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.009",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.009",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Lights.010",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Warm festoon lights Lights.010",
+          "face": "LeisureFace",
+          "purpose": "Warm festoon lights"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.024",
+      "vertexCount": 121,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.024",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.004",
+      "vertexCount": 178,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.004",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.025",
+      "vertexCount": 370,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.025",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.026",
+      "vertexCount": 137,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.026",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.005",
+      "vertexCount": 178,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.005",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.027",
+      "vertexCount": 402,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.027",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.011",
+      "vertexCount": 178,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.011",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cube.012",
+      "vertexCount": 178,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Cube.012",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Vert.002",
+      "vertexCount": 144,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Vert.002",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Vert.004",
+      "vertexCount": 144,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Vert.004",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Computer",
+      "vertexCount": 782,
+      "placements": [
+        {
+          "target": "Ref Computer Computer",
+          "face": "Computer",
+          "purpose": "Computer"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Screen",
+      "vertexCount": 54,
+      "placements": [
+        {
+          "target": "Ref Computer Screen",
+          "face": "Computer",
+          "purpose": "Computer"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Table Stand",
+      "vertexCount": 352,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Table Stand",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Roundcube.001",
+      "vertexCount": 477,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Roundcube.001",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Roundcube.002",
+      "vertexCount": 477,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Roundcube.002",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.040",
+      "vertexCount": 40,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.040",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.041",
+      "vertexCount": 40,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.041",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.039",
+      "vertexCount": 256,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.039",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Vert.012",
+      "vertexCount": 196,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Vert.012",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.037",
+      "vertexCount": 3845,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.037",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.009",
+      "vertexCount": 496,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Cylinder.009",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.015",
+      "vertexCount": 432,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Cylinder.015",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.010",
+      "vertexCount": 4205,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Cylinder.010",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.012",
+      "vertexCount": 4205,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Cylinder.012",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.013",
+      "vertexCount": 4205,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Cylinder.013",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Cylinder.014",
+      "vertexCount": 4205,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Cylinder.014",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Vert.009",
+      "vertexCount": 156,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Vert.009",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "BézierCurve.005",
+      "vertexCount": 854,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves BézierCurve.005",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "BézierCurve.003",
+      "vertexCount": 854,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves BézierCurve.003",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Circle.001",
+      "vertexCount": 1212,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Circle.001",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.042",
+      "vertexCount": 468,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.042",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.043",
+      "vertexCount": 10,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.043",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.045",
+      "vertexCount": 468,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.045",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.046",
+      "vertexCount": 10,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.046",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.047",
+      "vertexCount": 468,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.047",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.048",
+      "vertexCount": 10,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.048",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.033",
+      "vertexCount": 1218,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Plane.033",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.032",
+      "vertexCount": 1218,
+      "placements": [
+        {
+          "target": "Ref Drawer botanical cabinet Plane.032",
+          "face": "WorkFace",
+          "purpose": "Drawer botanical cabinet"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.044",
+      "vertexCount": 1218,
+      "placements": [
+        {
+          "target": "Ref Hanging plant shelves Plane.044",
+          "face": "LeisureFace",
+          "purpose": "Hanging plant shelves"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.073",
+      "vertexCount": 1218,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.073",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    },
+    {
+      "source": "Plane.074",
+      "vertexCount": 1218,
+      "placements": [
+        {
+          "target": "Ref Desk ensemble Plane.074",
+          "face": "WorkFace",
+          "purpose": "Desk ensemble"
+        }
+      ],
+      "status": "reused",
+      "reason": null
+    }
+  ]
+}

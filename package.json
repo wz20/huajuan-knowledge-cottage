@@ -1,0 +1,125 @@
+{
+  "name": "knowledge-workbench",
+  "version": "0.25.0",
+  "private": true,
+  "description": "花卷 3D 知识库工作台",
+  "main": "./out/main/index.js",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "rebuild:native": "node scripts/rebuild-native.mjs",
+    "pack": "npm run rebuild:native && npm run build && electron-builder --mac dir",
+    "test:electron": "node scripts/acceptance.mjs",
+    "dist:mac": "npm run rebuild:native && npm run build && electron-builder --mac dmg --arm64"
+  },
+  "dependencies": {
+    "better-sqlite3": "13.0.3",
+    "chokidar": "5.0.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "three": "0.185.0"
+  },
+  "devDependencies": {
+    "@gltf-transform/core": "^4.5.0",
+    "@gltf-transform/functions": "^4.5.0",
+    "@playwright/test": "^1.63.0",
+    "@types/better-sqlite3": "9.6.0",
+    "@types/node": "24.13.3",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.7",
+    "@types/three": "0.185.4",
+    "@vitejs/plugin-react": "5.2.0",
+    "electron": "44.2.0",
+    "electron-builder": "26.15.3",
+    "electron-vite": "5.0.0",
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "vitest": "3.2.7"
+  },
+  "engines": {
+    "node": ">=24.13.0"
+  },
+  "build": {
+    "appId": "cn.huajuan.knowledgeworkbench",
+    "productName": "花卷知识小屋",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "out/**/*",
+      "!out/renderer/pets/**/*",
+      "!out/renderer/models/cottage-space-v7.glb",
+      "!out/renderer/models/cottage-v5.glb",
+      "!out/renderer/models/cottage-v4.glb",
+      "!out/renderer/models/desk-v1.glb",
+      "!out/renderer/models/cottage-v6.glb",
+      "!out/renderer/models/cottage-v3.glb",
+      "!out/renderer/models/cottage-v2.glb",
+      "!out/renderer/models/cottage-v3-fur.glb",
+      "package.json",
+      "!out/renderer/models/dual-planet-v8.glb",
+      "!out/renderer/models/reference-room-v9.glb",
+      "!out/renderer/models/reference-room-v9.1.glb",
+      "!out/renderer/models/reference-room-v9.2.glb",
+      "!out/renderer/models/reference-room-v10.glb",
+      "!out/renderer/models/reference-room-v11.glb",
+      "!out/renderer/models/reference-room-v12.glb",
+      "!out/renderer/models/reference-room-v13.glb",
+      "!out/renderer/models/reference-room-v15.glb",
+      "!out/renderer/models/reference-room-v16.glb",
+      "!out/renderer/models/reference-room-v17.glb",
+      "!out/renderer/models/reference-room-v18.glb",
+      "!out/renderer/models/reference-room-v19.glb",
+      "!out/renderer/models/reference-room-v20.glb",
+      "!out/renderer/models/reference-room-v21.glb",
+      "!out/renderer/models/reference-room-v22.glb",
+      "!out/renderer/models/reference-room-v23.glb"
+    ],
+    "asarUnpack": [
+      "**/*.node"
+    ],
+    "mac": {
+      "target": [
+        "dir"
+      ],
+      "category": "public.app-category.productivity",
+      "icon": "assets/app-icon.icns"
+    },
+    "npmRebuild": false,
+    "electronDist": "node_modules/electron/dist",
+    "extraResources": [
+      {
+        "from": "assets/blender/v8-reference-MIT-LICENSE.md",
+        "to": "licenses/sooahs-room-folio-MIT.md"
+      },
+      {
+        "from": "assets/audio/SOURCES.md",
+        "to": "licenses/audio-sources.md"
+      },
+      {
+        "from": "assets/materials/v9/SOURCES.md",
+        "to": "licenses/v9-materials.md"
+      },
+      {
+        "from": "assets/blender/reference-room-v9-components.json",
+        "to": "licenses/reference-components.json"
+      },
+      {
+        "from": "assets/materials/v10/SOURCES.md",
+        "to": "licenses/v10-materials.md"
+      },
+      {
+        "from": "assets/blender/motion-v13-SOURCES.md",
+        "to": "licenses/v13-motion-sources.md"
+      }
+    ]
+  },
+  "author": "Ze",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wz20/huajuan-knowledge-cottage.git"
+  }
+}

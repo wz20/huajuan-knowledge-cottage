@@ -1,0 +1,11 @@
+node_modules/
+out/
+dist/
+.cache/
+.test-data/
+evidence/
+*.sqlite*
+*.db
+.env*
+.DS_Store
+*.blend1
